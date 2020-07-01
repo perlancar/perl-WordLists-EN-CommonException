@@ -1,4 +1,4 @@
-package WordList::EN::CommonException::RaundsParkInfantSchool::Year2;
+package WordList::EN::CommonException::MonsterPhonics::Year2;
 
 # AUTHORITY
 # DATE
@@ -11,16 +11,15 @@ our @ISA = qw(WordList);
 # STATS
 
 1;
-# ABSTRACT: Common exception words (year 2) from Rounds Park Infant School
+# ABSTRACT: Common exception words (year 2) from monsterphonics.com
 
 =head1 DESCRIPTION
 
-Source: L<https://www.raundsparkinfants.org.uk/>
+Source: L<https://monsterphonics.com/>
 
 =cut
 
 __DATA__
-Christmas
 Mr
 Mrs
 after
@@ -35,6 +34,7 @@ break
 busy
 child
 children
+christmas
 class
 climb
 clothes
@@ -45,7 +45,6 @@ even
 every
 everybody
 eye
-fast
 father
 find
 floor

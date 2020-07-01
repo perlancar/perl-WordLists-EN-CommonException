@@ -1,4 +1,4 @@
-package WordList::EN::CommonException::RaundsParkInfantSchool::Year1;
+package WordList::EN::CommonException::MonsterPhonics::Year1;
 
 # AUTHORITY
 # DATE
@@ -11,11 +11,11 @@ our @ISA = qw(WordList);
 # STATS
 
 1;
-# ABSTRACT: Common exception words (year 1) from Rounds Park Infant School
+# ABSTRACT: Common exception words (year 1) from monsterphonics.com
 
 =head1 DESCRIPTION
 
-Source: L<https://www.raundsparkinfants.org.uk/>
+Source: L<https://monsterphonics.com/>
 
 =cut
 
@@ -34,9 +34,7 @@ go
 has
 he
 here
-his
 house
-is
 love
 me
 my
@@ -50,7 +48,6 @@ push
 put
 said
 says
-school
 she
 so
 some

@@ -1,4 +1,4 @@
-package WordList::EN::CommonException::Edplacecom::Year1;
+package WordList::EN::CommonException::EdPlace::Year1;
 
 # AUTHORITY
 # DATE
@@ -15,11 +15,7 @@ our @ISA = qw(WordList);
 
 =head1 DESCRIPTION
 
-About common exception words: "Sometimes called red words or tricky words,
-common exception words are rebels. They don’t quite follow the spelling or
-phonics rules that children are taught in early years."
-
-Source L<https://edplace.com/>
+Source: L<https://edplace.com/>
 
 =cut
 

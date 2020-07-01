@@ -1,4 +1,4 @@
-package WordList::EN::CommonException::RaundsParkInfantSchool::Year2;
+package WordList::EN::CommonException::EdPlace::Year2;
 
 # AUTHORITY
 # DATE
@@ -11,11 +11,11 @@ our @ISA = qw(WordList);
 # STATS
 
 1;
-# ABSTRACT: Common exception words (year 2) from Rounds Park Infant School
+# ABSTRACT: Common exception words (year 2) from edplace.com
 
 =head1 DESCRIPTION
 
-Source: L<https://www.raundsparkinfants.org.uk/>
+Source: L<https://edplace.com/>
 
 =cut
 
