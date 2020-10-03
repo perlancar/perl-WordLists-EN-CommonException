@@ -10,6 +10,8 @@ our @ISA = qw(WordList);
 
 # STATS
 
+our @TAGS = qw(lang:en children);
+
 1;
 # ABSTRACT: Common exception words (year 1) from Rounds Park Infant School
 

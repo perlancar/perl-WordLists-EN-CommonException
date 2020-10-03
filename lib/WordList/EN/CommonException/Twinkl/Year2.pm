@@ -12,6 +12,8 @@ our $SORT = 'custom';
 
 # STATS
 
+our @TAGS = qw(lang:en children);
+
 1;
 # ABSTRACT: Common exception words (year 2) from twinkl.co.uk
 
